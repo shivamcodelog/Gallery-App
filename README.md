@@ -4,7 +4,7 @@ A dynamic image gallery application built with React.js and Tailwind CSS that fe
 
 ## Preview
 
-![Gallery Preview](gallery-preview.png)
+![Gallery Preview](assets/gallery-app.png)
 
 ## Features
 
